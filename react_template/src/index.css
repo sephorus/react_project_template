@@ -1,0 +1,12 @@
+@import "./css/type.css";
+
+*, *::before, *::after {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 30px;
+  font-family: 'Aileron', sans-serif;
+}
